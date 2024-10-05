@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-26T11:41:11 IST" name="Default suite" finished-at="2024-09-26T11:41:18 IST" duration-ms="6913">
+    <groups>
+    </groups>
+    <test started-at="2024-09-26T11:41:11 IST" name="Default test" finished-at="2024-09-26T11:41:18 IST" duration-ms="6913">
+      <class name="testpakage.createpagetest">
+        <test-method is-config="true" signature="browser()[pri:0, instance:testpakage.createpagetest@2892d68]" started-at="2024-09-26T11:41:11 IST" name="browser" finished-at="2024-09-26T11:41:16 IST" duration-ms="4348" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+        <test-method signature="test1()[pri:0, instance:testpakage.createpagetest@2892d68]" started-at="2024-09-26T11:41:16 IST" name="test1" finished-at="2024-09-26T11:41:18 IST" duration-ms="2519" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- testpakage.createpagetest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
